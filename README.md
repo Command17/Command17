@@ -12,3 +12,7 @@ and maybe soon C++ but thats kinda hart to learn
 <!---
 ![c++](https://img.shields.io/badge/-C%2B%2B-blue?style=for-the-badge)
 --->
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=command17&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
