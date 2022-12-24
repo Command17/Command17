@@ -3,7 +3,7 @@ I'm from germany and I like making dumb stuff👍
 
 I know:
 
-![lua](https://img.shields.io/badge/-Lua-blue?style=for-the-badge) & ![luau](https://img.shields.io/badge/-Luau-blue?style=for-the-badge) ![java](https://img.shields.io/badge/-Java-red?style=for-the-badge)
+![lua](https://img.shields.io/badge/-Lua-blue?style=for-the-badge) ![luau](https://img.shields.io/badge/-Luau-blue?style=for-the-badge) ![java](https://img.shields.io/badge/-Java-red?style=for-the-badge)
 
 ---
 
