@@ -13,3 +13,7 @@ I know:
 ![Command17's GitHub stats](https://github-readme-stats.vercel.app/api?username=command17&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=command17&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+Little site note here: I want to learn C++ but currently don't want to.
