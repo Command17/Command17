@@ -6,7 +6,7 @@ I programm as a hobby.
 
 I know:
 
-![lua](https://img.shields.io/badge/-Lua-blue?style=for-the-badge) ![luau](https://img.shields.io/badge/-Luau-blue?style=for-the-badge) ![java](https://img.shields.io/badge/-Java-red?style=for-the-badge) ![c#](https://img.shields.io/badge/-C%23-green?style=for-the-badge) ![c++](https://img.shields.io/badge/-C%2B%2B-blue?style=for-the-badge)
+![lua](https://img.shields.io/badge/-Lua-blue?style=for-the-badge) ![luau](https://img.shields.io/badge/-Luau-blue?style=for-the-badge) ![java](https://img.shields.io/badge/-Java-red?style=for-the-badge) ![c#](https://img.shields.io/badge/-C%23-green?style=for-the-badge) ![c++](https://img.shields.io/badge/-C%2B%2B-blue?style=for-the-badge) ![ts](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge)
 
 ## Github Stats
 
