@@ -1,6 +1,6 @@
 # me
 
-Hello! I'm Command17 (also known as baum1000000)
+Hello! I'm Command17
 
 I programm as a hobby.
 
