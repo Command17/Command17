@@ -1,16 +1,36 @@
-# me
+<h1 align="left">About me</h1>
 
-Hello! I'm Command17
+###
 
-I programm as a hobby.
+<p align="left">I programm as a hobby, nothing else.<br><br>Currently deeply into Minecraft modding!</p>
 
-I know:
+###
 
-![lua](https://img.shields.io/badge/-Lua-blue?style=for-the-badge&logo=Lua) ![java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=OpenJDK&logoColor=white) ![c#](https://img.shields.io/badge/-C%23-green?style=for-the-badge&logo=CSharp)
-![ts](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=white) ![gml](https://img.shields.io/badge/-GML-green?style=for-the-badge&logo=Gamemaker)
+<h2 align="left">Languages that I think I could make something in:</h2>
 
-## Github Stats
+###
 
-![Command17's GitHub stats](https://github-readme-stats.vercel.app/api?username=command17&show_icons=true&theme=transparent)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="40" alt="gamemakerstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=command17&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+###
+
+<h2 align="left">My Github Stats:</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Command17&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Command17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
