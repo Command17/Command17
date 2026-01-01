@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I programm as a hobby, nothing else.<br><br>Currently deeply into Minecraft modding!</p>
+<p align="left">I programm as a hobby, nothing else.</p>
 
 ###
 
