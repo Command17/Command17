@@ -8,8 +8,8 @@ I program as a hobby and my skills are currently self-taught. I make Minecraft m
 
 - [Magnetizing](https://github.com/Command17/Magnetizing)
 - [Hammering](https://github.com/Command17/Hammering)
-- [DeliciousCake](https://github.com/Command17/DeliciousCake)
-- [FabricDiscordBridge](https://github.com/Command17/FabricDiscordBridge)
+- [Delicious Cake](https://github.com/Command17/DeliciousCake)
+- [Fabric Discord Bridge](https://github.com/Command17/FabricDiscordBridge)
 
 ## 🛠️ Languages and Tools
 
