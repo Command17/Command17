@@ -1,36 +1,18 @@
-<h1 align="left">About me</h1>
+# Hi, I'm Comma
 
-###
+I program as a hobby and my skills are currently self-taught. I make Minecraft mods, but I'm trying to slowly move away from that and try out some new programming languages
 
-<p align="left">I programm as a hobby, nothing else.</p>
+## 📦 Featured Projects
 
-###
+### Minecraft Mods
 
-<h2 align="left">Languages that I think I could make something in:</h2>
+- [Magnetizing](https://github.com/Command17/Magnetizing)
+- [Hammering](https://github.com/Command17/Hammering)
+- [DeliciousCake](https://github.com/Command17/DeliciousCake)
+- [FabricDiscordBridge](https://github.com/Command17/FabricDiscordBridge)
 
-###
+## 🛠️ Languages and Tools
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="40" alt="gamemakerstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-</div>
+Languages: ![java](https://img.shields.io/badge/Java-red?style=flat&logo=openjdk&logoColor=white) ![javascript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white) ![typescript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript&logoColor=white)
 
-###
-
-<h2 align="left">My Github Stats:</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Command17&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Command17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+Tools: ![git](https://img.shields.io/badge/Git-orange?style=flat&logo=git&logoColor=white)
