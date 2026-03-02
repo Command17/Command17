@@ -13,6 +13,6 @@ I program as a hobby and my skills are currently self-taught. I make Minecraft m
 
 ## 🛠️ Languages and Tools
 
-Languages: ![java](https://img.shields.io/badge/Java-red?style=flat&logo=openjdk&logoColor=white) ![javascript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white) ![typescript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript&logoColor=white)
+Languages: ![java](https://img.shields.io/badge/Java-red?style=flat&logo=openjdk&logoColor=white) ![javascript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white) ![lua](https://img.shields.io/badge/Lua-darkblue?style=flat&logo=lua) ![typescript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript&logoColor=white)
 
 Tools: ![git](https://img.shields.io/badge/Git-orange?style=flat&logo=git&logoColor=white)
