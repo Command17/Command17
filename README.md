@@ -6,9 +6,7 @@ I program as a hobby and my skills are currently self-taught. I make Minecraft m
 
 ### Minecraft Mods
 
-- [Magnetizing](https://github.com/Command17/Magnetizing)
-- [Hammering](https://github.com/Command17/Hammering)
-- [Delicious Cake](https://github.com/Command17/DeliciousCake)
+- [Neo Hammers](https://github.com/Command17/NeoHammers)
 - [Fabric Discord Bridge](https://github.com/Command17/FabricDiscordBridge)
 
 ## 🛠️ Languages and Tools
