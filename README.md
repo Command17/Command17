@@ -9,8 +9,18 @@ I program as a hobby and my skills are currently self-taught. I make Minecraft m
 - [Neo Hammers](https://github.com/Command17/NeoHammers)
 - [Fabric Discord Bridge](https://github.com/Command17/FabricDiscordBridge)
 
+### GameMaker
+
+- [VectorGML](https://github.com/Command17/VectorGML)
+
 ## 🛠️ Languages and Tools
 
-Languages: ![java](https://img.shields.io/badge/Java-red?style=flat&logo=openjdk&logoColor=white) ![javascript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white) ![lua](https://img.shields.io/badge/Lua-darkblue?style=flat&logo=lua) ![typescript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript&logoColor=white)
+Languages: ![java](https://img.shields.io/badge/Java-red?style=flat&logo=openjdk&logoColor=white) ![javascript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white) ![typescript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript&logoColor=white) ![lua](https://img.shields.io/badge/Lua-darkblue?style=flat&logo=lua) ![gml](https://img.shields.io/badge/GML-green?style=flat&logo=gamemaker&logoColor=white)
 
 Tools: ![git](https://img.shields.io/badge/Git-orange?style=flat&logo=git&logoColor=white)
+
+## 🌟Github Stats
+
+![Comma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Command17&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Command17&layout=compact&theme=transparent)
