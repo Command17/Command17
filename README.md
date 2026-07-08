@@ -21,6 +21,6 @@ Tools: ![git](https://img.shields.io/badge/Git-orange?style=flat&logo=git&logoCo
 
 ## 🌟Github Stats
 
-![Comma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Command17&show_icons=true&theme=transparent)
+![Comma's GitHub stats](https://github-stats-extended.vercel.app/api?username=Command17&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Command17&layout=compact&theme=transparent)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Command17&layout=compact&theme=transparent)
