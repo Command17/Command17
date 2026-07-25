@@ -6,12 +6,12 @@ I program as a hobby and my skills are currently self-taught. I make Minecraft m
 
 ### Minecraft Mods
 
-- [Neo Hammers](https://github.com/Command17/NeoHammers)
-- [Fabric Discord Bridge](https://github.com/Command17/FabricDiscordBridge)
+- [Neo Hammers](https://github.com/uuComma/NeoHammers)
+- [Fabric Discord Bridge](https://github.com/uuComma/FabricDiscordBridge)
 
 ### GameMaker
 
-- [VectorGML](https://github.com/Command17/VectorGML)
+- [VectorGML](https://github.com/uuComma/VectorGML)
 
 ## 🛠️ Languages and Tools
 
